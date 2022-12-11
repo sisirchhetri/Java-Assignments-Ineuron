@@ -2,7 +2,7 @@ package in.sisirchhetri;
 
 import java.util.Scanner;
 
-public class 1_TryAndCatch {
+public class S1_TryCatch {
 
 	public static void main(String[] args) {
 		
